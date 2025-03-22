@@ -35,6 +35,3 @@ Hello! My name is Caden Finley, and I strive to build and create things with pur
 ## 🌱 I'm currently learning
 - Optimization and program performance measuring
 - AI/ Machine learning custom models
-
----
-⭐️ From [CadenFinley](https://github.com/cadenfinley)
