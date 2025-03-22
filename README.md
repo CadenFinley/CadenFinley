@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Caden Finley
 
 <div align="center">
-  <a href="https://www.instagram.com/cadenfinley/"><img src="https://img.shields.io/badge/Website-instagram.com-brightgreen?style=for-the-badge" alt="Website"></a>
-  <a href="https://cadenfinley.com/"><img src="https://img.shields.io/badge/Website-cadenfinley.com-brightgreen?style=for-the-badge" alt="Website"></a>
+  <a href="https://www.instagram.com/cadenfinley/"><img src="https://img.shields.io/badge/Website-instagram.com-brightgreen?style=for-the-badge" alt="My Instagram"></a>
+  <a href="https://cadenfinley.com/"><img src="https://img.shields.io/badge/Website-cadenfinley.com-brightgreen?style=for-the-badge" alt="My Website"></a>
   <a href="https://www.linkedin.com/in/cadenjfinley/"><img src="https://img.shields.io/badge/LinkedIn-cadenjfinley-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </div>
 
