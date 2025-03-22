@@ -25,7 +25,6 @@ Hello! My name is Caden Finley, and I strive to build and create things with pur
 
 ## 📊 GitHub Stats
 [![Caden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadenfinley&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Caden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadenfinley&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect With Me
 - [My Website](https://cadenfinley.com/)
