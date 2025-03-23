@@ -46,7 +46,7 @@ I strive to build and create things with purpose and intent. I'm passionate abou
   |----------|--------|
   | **Languages** | Python, Java, C, C++, PHP, JavaScript, HTML, CSS, Standard ML, SWI-Prolog, LEX, SQL |
   | **Focus Areas** | Back-end Development, Scripting, Data Management, System Architecture, Test Suite Building, Tooling |
-  | **Tools & Environments** | Git, VS Code, Linux/UNIX systems |
+  | **Tools & Environments** | MacOS, Linux/UNIX, Git, Docker |
 </details>
 
 ---
