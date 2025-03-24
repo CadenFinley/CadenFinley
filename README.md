@@ -85,6 +85,8 @@ Public source code for my personal website, including back-end scripts for my we
   </a>
 </div>
 
+<img height="150em" src="[https://github-readme-stats.vercel.app/api?username=cadenfinley&show_icons=true&theme=radical&hide_rank=true](https://api.githubtrends.io/user/svg/CadenFinley/langs?time_range=one_year&theme=dark)" />
+
 ---
 
 ## 🌱 Current Learning Focus
