@@ -83,9 +83,11 @@ Public source code for my personal website, including back-end scripts for my we
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadenfinley&layout=compact&theme=radical" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cadenfinley&show_icons=true&theme=radical&hide_rank=true" />
   </a>
+  <br/>
+  <a href="https://api.githubtrends.io/user/svg/CadenFinley/langs?time_range=one_year&theme=dark">
+    <img src="https://api.githubtrends.io/user/svg/CadenFinley/langs?time_range=one_year&theme=dark" alt="GitHub Trends" />
+  </a>
 </div>
-
-[https://github-readme-stats.vercel.app/api?username=cadenfinley&show_icons=true&theme=radical&hide_rank=true](https://api.githubtrends.io/user/svg/CadenFinley/langs?time_range=one_year&theme=dark)
 
 ---
 
