@@ -94,6 +94,7 @@ Public source code for my personal website, including back-end scripts for my we
 ## 🌱 Current Learning Focus
 - ⚡ Optimization and program performance measurement techniques
 - 🤖 AI/Machine learning custom model development
+- Sh and Zsh custom frameworks and terminals
 
 ---
 
