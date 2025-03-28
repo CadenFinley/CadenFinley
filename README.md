@@ -7,7 +7,7 @@
 </div>
 
 ## 💫 About Me
-I strive to build and create things with purpose and intent. I'm passionate about developing efficient, elegant solutions to complex problems.
+I strive to build and create things with purpose and intent.
 
 ---
 
@@ -19,7 +19,7 @@ I strive to build and create things with purpose and intent. I'm passionate abou
     <td>
       <b>Bachelor's in Computer Science, Software Engineering</b><br/>
       • Studying towards a degree with a concentration in Software Engineering<br/>
-      • Proficient with Python, Java, C, C++, PHP, JavaScript, HTML, CSS, Standard ML, SWI-Prolog, LEX, SQL, and Git
+      • Worked with Python, Java, C, C++, PHP, JavaScript, HTML, CSS, Standard ML, SWI-Prolog, LEX, SQL, and Git
     </td>
   </tr>
   <tr>
