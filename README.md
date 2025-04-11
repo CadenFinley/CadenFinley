@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Caden Finley
+# Hi, I'm Caden Finley
 
 <div align="center">
   <img src="https://img.shields.io/badge/Computer%20Science-Software%20Engineering-blue?style=for-the-badge" alt="Computer Science | Software Engineering">
@@ -6,12 +6,12 @@
   <a href="https://www.linkedin.com/in/cadenjfinley/"><img src="https://img.shields.io/badge/LinkedIn-cadenjfinley-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </div>
 
-## 💫 About Me
+## About Me
 I strive to build and create things with purpose and intent.
 
 ---
 
-## 🎓 Education
+## Education
 
 <table>
   <tr>
@@ -36,7 +36,7 @@ I strive to build and create things with purpose and intent.
 
 ---
 
-## 🚀 Skills
+## Skills
 
 <details open>
   <summary><b>Technical Expertise</b></summary>
@@ -51,7 +51,7 @@ I strive to build and create things with purpose and intent.
 
 ---
 
-## 💻 Featured Projects
+## Projects
 
 <div align="center">
   <a href="https://github.com/CadenFinley/DevToolsTerminal">
@@ -76,7 +76,7 @@ Public source code for my personal website, including back-end scripts for my we
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -91,14 +91,14 @@ Public source code for my personal website, including back-end scripts for my we
 
 ---
 
-## 🌱 Current Learning Focus
+## Current Learning Focus
 - ⚡ Optimization and program performance measurement techniques
 - 🤖 AI/Machine learning custom model development
 - Sh and Zsh custom frameworks and terminals
 
 ---
 
-## 📫 Connect With Me
+## Connect
 - 🌐 [Website](https://cadenfinley.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cadenjfinley/)
 - 📸 [Instagram](https://www.instagram.com/cadenfinley/)
