@@ -7,7 +7,7 @@
 </div>
 
 ## About Me
-I strive to build and create things with purpose and intent.
+Hi! My name is Caden Finley and I am currently a Senior Computer Science, Software Engineering major at Abilene Christian University. I love all things computers, audio, and cars!
 
 ---
 
