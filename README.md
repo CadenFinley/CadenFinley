@@ -51,31 +51,6 @@ Hi! My name is Caden Finley and I am currently a Senior Computer Science, Softwa
 
 ---
 
-## Projects
-
-<div align="center">
-  <a href="https://github.com/CadenFinley/DevToolsTerminal">
-    <img src="https://img.shields.io/badge/DevToolsTerminal-Terminal%20with%20AI-blue?style=for-the-badge" alt="DevToolsTerminal">
-  </a>
-  <a href="https://github.com/CadenFinley/ASCII-Adventurer">
-    <img src="https://img.shields.io/badge/ASCII--Adventurer-Text%20Adventure%20Game-purple?style=for-the-badge" alt="ASCII-Adventurer">
-  </a>
-  <a href="https://github.com/CadenFinley/CadenFinley.com">
-    <img src="https://img.shields.io/badge/CadenFinley.com-Personal%20Website-green?style=for-the-badge" alt="CadenFinley.com">
-  </a>
-</div>
-
-### [DevToolsTerminal](https://github.com/CadenFinley/DevToolsTerminal)
-A lightweight terminal emulator for UNIX systems with integrated OpenAI capabilities. Users can execute commands, manage shortcuts and scripts, configure startup commands, and interact with GPT models for enhanced productivity and error resolution.
-
-### [ASCII-Adventurer](https://github.com/CadenFinley/ASCII-Adventurer)
-SE374 | A text adventure game featuring randomly generated dungeons, AI-generated text prompts, an open world, serialized game saves, and a full inventory management system.
-
-### [CadenFinley.com](https://github.com/CadenFinley/CadenFinley.com)
-Public source code for my personal website, including back-end scripts for my web chat application.
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -88,9 +63,9 @@ Public source code for my personal website, including back-end scripts for my we
 ---
 
 ## Current Learning Focus
-- ⚡ Optimization and program performance measurement techniques
-- 🤖 AI/Machine learning custom model development
-- Sh and Zsh custom frameworks and terminals
+- Optimization and program performance measurement techniques
+- AI/Machine learning custom model development
+- Login Shells and signal handlers
 
 ---
 
