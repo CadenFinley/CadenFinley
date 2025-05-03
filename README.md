@@ -7,7 +7,6 @@
 
 ---
 
-## Connect
 - 🌐 [Website](https://cadenfinley.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cadenjfinley/)
 - 📸 [Instagram](https://www.instagram.com/cadenfinley/)
