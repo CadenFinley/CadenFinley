@@ -7,6 +7,14 @@
 
 ---
 
-- 🌐 [Website](https://cadenfinley.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/cadenjfinley/)
-- 📸 [Instagram](https://www.instagram.com/cadenfinley/)
+<p align="center">
+  <a href="https://cadenfinley.com/">
+    <img src="https://img.shields.io/badge/Website-cadenfinley.com-4ABADF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cadenjfinley/">
+    <img src="https://img.shields.io/badge/LinkedIn-cadenjfinley-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/cadenfinley/">
+    <img src="https://img.shields.io/badge/Instagram-cadenfinley-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
