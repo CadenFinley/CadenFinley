@@ -5,8 +5,6 @@
   </a>
 </div>
 
----
-
 <p align="center">
   <a href="https://cadenfinley.com/">
     <img src="https://img.shields.io/badge/Website-cadenfinley.com-4ABADF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
